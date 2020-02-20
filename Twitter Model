@@ -1,0 +1,19 @@
+# Twitter
+Twitter analysis report
+# Twitter Data
+The current model has two files, one is for collecting data from twitter and adding it to an SQL object.
+The other is for collecting the data and analyzing the data.
+# Data collection
+the model autheticates to the twitter api and collects tweets on trending Kenyan topics
+
+# Data Analysis
+the model uses the NLTK tools to analyze the tweets and create some visualizations in word cloud and line plots
+
+# Model
+
+The analysis creates a Gradient boosting machine learning model to predict the topic of the tweet.
+the model used is a classsification model that predicts if a tweet falls under 3 topics: "social","media","politics"
+
+The model achieves an accuracy rate of 80% so its an overall good model that can predict the topic of the tweet with 80% accuracy.
+
+
