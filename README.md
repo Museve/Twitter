@@ -10,3 +10,9 @@ three topics are selected from the hashtags : politics, social and media
 
 # Machine Learning Model
 The model selected is a gradient boosting model that achieves an accuracy score of 80%. This indicates that for any predition made by this model is that the chance of right prediction is always 80%.
+
+# Dash board link
+
+<a href = 'https://plot.ly/~anjeo/23/'>Dash Board Link</a>
+
+
